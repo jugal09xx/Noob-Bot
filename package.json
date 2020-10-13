@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
     "fs": "0.0.1-security",
     "one-liner-joke": "^1.2.0",
     "request": "^2.88.2"
